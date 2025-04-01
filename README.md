@@ -3,6 +3,7 @@
 
 
 
+
 # Murder-Mystery-2-Script
 Enhance your Roblox Murder Mystery 2 gameplay with this powerful script! Features include auto role detection, unlimited coins, ESP, speed boost, God Mode, and much more. Unlock all the best features for an unbeatable experience! 🎮🔪💰
 
